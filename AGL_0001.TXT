@@ -1,0 +1,9 @@
+# DeviceModel = S200
+# DeviceUID = 848D59C6-8C691010
+# DataType = AttendLog
+# StartPos = 0, LogCount = 7982, LimitPos = 100000
+No	TMNo	EnNo	Name		GMNo	Mode	IN/OUT	Antipass	DaiGong	DateTime	TR	
+5924	1	00000001	rohit a patel	1	1	E	1	0	2025-01-17  15:21:54	Time Out
+5925	1	00000002	ashish n patel	1	1	E	0	0	2025-01-17  15:31:08	Time Out
+5926	1	00000003	sanjay g patel	1	1	S	0	0	2025-01-20  09:46:13	Time In
+5927	1	00000001	rohit a patel	1	1	E	0	0	2025-03-11  16:39:33	Time Out
